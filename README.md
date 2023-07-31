@@ -1,6 +1,7 @@
-# CSS3 Loading animations
+# Animated Tab Bar v.2
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Manoz/pen/kyWvQw](https://codepen.io/Manoz/pen/kyWvQw).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/abxlfazl/pen/OJbEbxL](https://codepen.io/abxlfazl/pen/OJbEbxL).
 
-Some css3 loading animations experiments.
-Have fun and remember to share what you learn :)
+Designed by: Hoang Nguyen
+
+Original image: https://dribbble.com/shots/5919154-Tab-Bar-Label-Micro-Interaction
